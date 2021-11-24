@@ -1,6 +1,6 @@
 #theme: jekyll-theme-slate
 theme: jekyll-theme-minimalist
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jemoji
+#plugins:
+#  - jekyll-sitemap
+#  - jekyll-seo-tag
+#  - jemoji
