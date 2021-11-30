@@ -2,6 +2,9 @@
 
 ## Ditto [Ditto](https://github.com/jookty/Memo/blob/300f4c6e3e15629471ea016ba3bc3ae7889895fc/DT/Ditto_InfluxDB%20%EC%97%B0%EB%8F%99%EB%B0%A9%EB%B2%95)
 
+## Latex 추가하는 방법  
+(https://sanglee325.github.io/blog/mathjax-github-io/#%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8-github-blog%EC%97%90-%EC%B6%94%EA%B0%80%ED%95%98%EB%8A%94-%EB%B0%A9%EC%8B%9D)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jookty/jookty.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
