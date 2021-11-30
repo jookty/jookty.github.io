@@ -8,15 +8,17 @@ You can use the [editor on GitHub](https://github.com/jookty/jookty.github.io/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Latex
+### Latex  
 \begin{equation}\label{eq1}
 x = \frac{-b\pm \sqrt{b^2-4ac}}{2a}
-\end{equation}
+\end{equation}  
 
 
-- inline Latex
-$f(X) = X^2 + 2X + 1$
-$f(X) = X^2 + 2X + 1$
+- inline Latex  
+$f(X) = X^2 + 2X + 1$  
+$f(X) = X^2 + 2X + 1$  
+
+\(E=mc^2\), $$x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}(2b).&&
 
 ### abkce 
 
