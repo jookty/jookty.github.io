@@ -13,6 +13,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 x = \frac{-b\pm \sqrt{b^2-4ac}}{2a}
 \end{equation}  
 
+$$E=mc^2$$   
+```   
+$$E=mc^2$$    
+```   
+
 
 - inline Latex  
 $f(X) = X^2 + 2X + 1$  
