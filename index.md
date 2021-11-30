@@ -9,7 +9,7 @@ You can use the [editor on GitHub](https://github.com/jookty/jookty.github.io/ed
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Latex
-$$ 1+1 = 2 $$
+$ 1+1 = 2 $
 
 
 
